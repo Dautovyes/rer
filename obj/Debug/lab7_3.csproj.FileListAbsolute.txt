@@ -1,0 +1,14 @@
+c:\users\xan\source\repos\lab7_3\lab7_3\bin\Debug\lab7_3.exe.config
+c:\users\xan\source\repos\lab7_3\lab7_3\bin\Debug\lab7_3.exe
+c:\users\xan\source\repos\lab7_3\lab7_3\bin\Debug\lab7_3.pdb
+c:\users\xan\source\repos\lab7_3\lab7_3\obj\Debug\lab7_3.csproj.CoreCompileInputs.cache
+c:\users\xan\source\repos\lab7_3\lab7_3\obj\Debug\lab7_3.exe
+c:\users\xan\source\repos\lab7_3\lab7_3\obj\Debug\lab7_3.pdb
+c:\users\xan\source\repos\lab7_3\lab7_3\obj\Debug\lab7_3.csprojResolveAssemblyReference.cache
+C:\Users\Естай\Desktop\Естай сабак\ТП\lab7_3\lab7_3\bin\Debug\lab7_3.exe.config
+C:\Users\Естай\Desktop\Естай сабак\ТП\lab7_3\lab7_3\bin\Debug\lab7_3.exe
+C:\Users\Естай\Desktop\Естай сабак\ТП\lab7_3\lab7_3\bin\Debug\lab7_3.pdb
+C:\Users\Естай\Desktop\Естай сабак\ТП\lab7_3\lab7_3\obj\Debug\lab7_3.csprojResolveAssemblyReference.cache
+C:\Users\Естай\Desktop\Естай сабак\ТП\lab7_3\lab7_3\obj\Debug\lab7_3.csproj.CoreCompileInputs.cache
+C:\Users\Естай\Desktop\Естай сабак\ТП\lab7_3\lab7_3\obj\Debug\lab7_3.exe
+C:\Users\Естай\Desktop\Естай сабак\ТП\lab7_3\lab7_3\obj\Debug\lab7_3.pdb
